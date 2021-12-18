@@ -1,0 +1,36 @@
+##Creating The Perfect Fantasy Football Team Through Optimization
+## Approach
+First, we establish a set of player names from our data:
+
+$$players = \left\{Mendy, Allison, Ederson, ... , Ferguson \right\}$$
+
+Next, we introduce parameters for cost, points and position to help build the linear program:
+
+1. **Cost:** $$cost_{players} = [6.3, 6.3, 6.5, ... , 6.7]$$ 
+
+2. **Points:**  $$points_{players} = [68, 72, 69, ... , 0]$$ 
+
+3. **Position:** $$position_{players} = [GK, GK, ..., FWD]$$ 
+
+To complete our initalization of the linear program, we produce a binary decision variable that will indicate if a player is chosen for the fantasy football team or not:
+
+$$x_{i} = \left\{1, if \ a \ player \ i \ is \ chosen \ for \ the \ team; 0, \ otherwise \right\}\;\;\;\forall \ i\   \epsilon \ players$$ 
+
+With the help of parameters and the binary decision variable we can begin implementing our complete linear program:
+
+$$max\sum \left ( x_{i} \right )\ast \left ( points_{i}\right ) \;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$subject \ to:\;\;\;\;\;\;\;\ \sum \left ( x_{i} \right )\ast \left ( cost_{i}\right ) \leq B \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\ \sum \left ( x_{i} \right ) = 11 \;\;\;\;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\  \ position_{i}  = "GK" \to\lambda = 1; \;\;\ \lambda=1 \to\sum  x_{i}  = 1\;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\  \ position_{i}  = "FWD" \to\lambda = 1; \;\;\ \lambda=1 \to\sum  x_{i}  = 4\;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\  \ position_{i}  = "DEF" \to\lambda = 1; \;\;\ \lambda=1 \to\sum  x_{i}  = 4\;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\  \ position_{i}  = "MID" \to\lambda = 1; \;\;\ \lambda=1 \to\sum  x_{i}  = 2\;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$ 
+$$x_{i} \geq0 \;\;\;\;\;\;\;\;\;\forall \ i\   \epsilon \ players$$
+
+
+Intro
+Explain LP
+Visualizations
+Conclusions
+Dataset
+Further Recommendations
