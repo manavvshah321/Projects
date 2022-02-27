@@ -25,6 +25,8 @@ A direct link to the project report can be found [here](https://github.com/manav
 
 ### ISyE 315: Production Planning and Control
 
+The course project for Production Planning and Control was extremely interesting! We were tasked with 2 goals to achieve for our mock client, Tomahawk Metals: to keep welding outsourced or move it in-house and to create an efficient production layout
+
 ### ISyE 320: Simulation and Probabilistic Modeling
 
 ### ISyE 412: Fundamentals of Industrial Data Analytics
