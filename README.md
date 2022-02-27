@@ -11,6 +11,6 @@ Over the 4 years of my undergraduate education, I have got the opportunity to le
 * [ISyE 323: Operations Research - Deterministic Modeling]
 * [ISyE 524: Introduction to Optimization]
 
-##ISyE 350: Junior Design Lab
+## ISyE 350: Junior Design Lab
 
 wkfnwfnwe
