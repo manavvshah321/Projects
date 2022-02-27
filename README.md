@@ -21,7 +21,7 @@ A direct link to project report can be found [here](https://github.com/manavvsha
 
 For this project, our team investigated the relationship between various health factors and resting blood pressure. We started the project by explore the dataset of over 300 individuals and checking to see what types of data exist in the dataset and if there is any basis to run a simple linear regression model. We followed this by succesfully running a simple linear regression model and analyze the outcome which led us to run a multiple linear regression model to explain the low R-squared value. To confirm our analysis, we created a scatterplot matrix and checked for influential variables by using Cook's Distance. Finally, we provided an alternative suggestion to model which utilized Enhanced Regression and provided further recommedations to make our model better, if it were to be worked on by another team.
 
-A direct link to the project report can be found [here]() and the link to R code for the project can be found [here]().
+A direct link to the project report can be found [here](https://github.com/manavvshah321/Projects/blob/main/ISyE%20312%20Project%20Report%20.pdf) and the link to R code for the project can be found [here]().
 
 ### ISyE 315: Production Planning and Control
 
