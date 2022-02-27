@@ -15,9 +15,13 @@ Over the 4 years of my undergraduate education at the University of Wisconsin - 
 
 This course was a semester long project, where we had to meet our mock client, WiScooter's requirements. WiScooter was experiencing rapid demand for 3 stock-keeping-units (SKU's) and didn't have the capacity to meet those demands for the next 10 years. Our team was tasked with creating a report that provided WiScooter a detailed evaluation on how to increase their production capacity at their manufacturing facility and move finished goods inventory to a nearby warehouse. During the course of this project, we were able to create Gantt Charts, Aggregate Resource Tables, Value Stream Maps and more and provide basis for our evaluations by performing MOST Analysis, Inventory & Capacity Analysis, Pugh Matrix and many more. 
 
-A direct link to project can be found [here](https://github.com/manavvshah321/Projects/blob/main/ISyE%20350%20-%20Final%20Proposal.pdf).
+A direct link to project report can be found [here](https://github.com/manavvshah321/Projects/blob/main/ISyE%20350%20-%20Final%20Proposal.pdf).
 
 ### ISyE 312: Data Management and Analysis for Industrial Engineers
+
+For this project, our team investigated the relationship between various health factors and resting blood pressure. We started the project by explore the dataset of over 300 individuals and checking to see what types of data exist in the dataset and if there is any basis to run a simple linear regression model. We followed this by succesfully running a simple linear regression model and analyze the outcome which led us to run a multiple linear regression model to explain the low R-squared value. To confirm our analysis, we created a scatterplot matrix and checked for influential variables by using Cook's Distance. Finally, we provided an alternative suggestion to model which utilized Enhanced Regression and provided further recommedations to make our model better, if it were to be worked on by another team.
+
+A direct link to the project report can be found [here]() and the link to R code for the project can be found [here]().
 
 ### ISyE 315: Production Planning and Control
 
