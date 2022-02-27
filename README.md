@@ -9,7 +9,7 @@ Over the 4 years of my undergraduate education, I have got the opportunity to le
 * [ISyE 320: Simulation and Probabilistic Modeling](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-320-simulation-and-probabilistic-modeling)
 * [ISyE 412: Fundamentals of Industrial Data Analytics](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-412-fundamentals-of-industrial-data-analytics)
 * [ISyE 323: Operations Research - Deterministic Modeling](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-323-operations-research---deterministic-modeling)
-* [ISyE 524: Introduction to Optimization]
+* [ISyE 524: Introduction to Optimization](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-524-introduction-to-optimization)
 
 ## ISyE 350: Junior Design Lab
 
