@@ -13,7 +13,7 @@ Over the 4 years of my undergraduate education, I have got the opportunity to le
 
 ## ISyE 350: Junior Design Lab
 
-## ISyE 312: Data Management and Analysis for Industrial Engineers
+##### ISyE 312: Data Management and Analysis for Industrial Engineers
 
 ## ISyE 315: Production Planning and Control
 
