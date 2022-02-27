@@ -25,7 +25,9 @@ A direct link to the project report can be found [here](https://github.com/manav
 
 ### ISyE 315: Production Planning and Control
 
-The course project for Production Planning and Control was extremely interesting! We were tasked with 2 goals to achieve for our mock client, Tomahawk Metals: to keep welding outsourced or move it in-house and to create an efficient production layout
+The course project for Production Planning and Control was extremely interesting! Our group was tasked with 2 goals to achieve for our mock client, Tomahawk Metals: to keep welding outsourced or move it in-house and to create an efficient production layout for the shop floor that will allow Tomahawk Metals to meet their demand for the next 10 years. To achieve our goals, we utliized Payback & Financial Analysis, Sensitivity Analysis and Relationship Flow Diagrams to generate conclusive recommendations for Tomahawk Metals. 
+
+A direct link to the project report can be found [here]().
 
 ### ISyE 320: Simulation and Probabilistic Modeling
 
