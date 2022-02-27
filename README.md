@@ -13,4 +13,15 @@ Over the 4 years of my undergraduate education, I have got the opportunity to le
 
 ## ISyE 350: Junior Design Lab
 
-wkfnwfnwe
+## ISyE 312: Data Management and Analysis for Industrial Engineers
+
+## ISyE 315: Production Planning and Control
+
+## ISyE 320: Simulation and Probabilistic Modeling
+
+## ISyE 412: Fundamentals of Industrial Data Analytics
+
+## ISyE 323: Operations Research - Deterministic Modeling
+
+## ISyE 524: Introduction to Optimization
+
