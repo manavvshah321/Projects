@@ -6,7 +6,7 @@ Over the 4 years of my undergraduate education, I have got the opportunity to le
 * [ISyE 350: Junior Design Lab](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-350-junior-design-lab)
 * [ISyE 312: Data Management and Analysis for Industrial Engineers](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-312-data-management-and-analysis-for-industrial-engineers)
 * [ISyE 315: Production Planning and Control](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-315-production-planning-and-control)
-* [ISyE 320: Simulation and Probabilistic Modeling]
+* [ISyE 320: Simulation and Probabilistic Modeling](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-320-simulation-and-probabilistic-modeling)
 * [ISyE 412: Fundamentals of Industrial Data Analytics]
 * [ISyE 323: Operations Research - Deterministic Modeling]
 * [ISyE 524: Introduction to Optimization]
