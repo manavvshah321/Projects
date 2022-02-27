@@ -1,4 +1,4 @@
 # Projects
 
-##Information about my projects
+Information about my projects
 
