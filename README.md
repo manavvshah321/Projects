@@ -39,7 +39,7 @@ A direct link to the project report can be found [here](https://github.com/manav
 
 ISyE 412 allowed us to expereince Tableau for the first time. I worked with a group of 3 to create an interactive Tableau dashboard that reflected our findings from our project. For our project, we chose to investigate the relationship between credit card approval and discrimination. A machine learning algorithm predicts an applicants credit card approval rate by making connections between hundreds of data points. We dived deeper into these connections and explored if there were any underlying or unintentional biases created by the algorithm that may deny a suitable applicant the chance for a credit card based on discriminatory factors. 
 
-A direct link to the project report can be found [here]() and a link to the Tableau dashboard can be found [here](https://github.com/manavvshah321/Projects/blob/main/Project.twb).
+A direct link to the project report can be found [here](https://github.com/manavvshah321/Projects/blob/main/ISyE%20412%20Project%20Report.pdf) and a link to the Tableau dashboard can be found [here](https://github.com/manavvshah321/Projects/blob/main/Project.twb).
 
 ### ISyE 323: Operations Research - Deterministic Modeling
 
