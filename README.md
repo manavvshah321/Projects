@@ -45,7 +45,7 @@ A direct link to the project report can be found [here](https://github.com/manav
 
 ISyE 323 was my first step into operations research and optimization. During this class we learned all about the basics of optimzation and equipped ourselves with Julia. We ended the semseter with a project where we had to choose any problem that could be optimized. Having a motivated interest in football (soccer), I created a optiimization algorithm to pick the best fantasy team given certain constraints such as budget, maximum of 3 players from the same team, 1 goal keeper and their points. This project allowed me to leverage my interests into an academic project that I enjoyed. Learning Julia was a challenging yet satisfying task, as I was able to get a good understanding of the language and am now able to model different types of problems. 
 
-A direct link to the project report can be found [here]() and a link to the Julia code can be found [here]().
+A direct link to the project report can be found [here]() and a link to the Julia code can be found [here](https://github.com/manavvshah321/Projects/blob/main/ISyE%20323%20Julia%20Code.ipynb).
 
 ### ISyE 524: Introduction to Optimization
 
