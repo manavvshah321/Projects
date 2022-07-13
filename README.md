@@ -9,7 +9,7 @@ Over the 4 years of my undergraduate education at the University of Wisconsin - 
 * [ISyE 320: Simulation and Probabilistic Modeling](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-320-simulation-and-probabilistic-modeling)
 * [ISyE 412: Fundamentals of Industrial Data Analytics](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-412-fundamentals-of-industrial-data-analytics)
 * [ISyE 323: Operations Research - Deterministic Modeling](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-323-operations-research---deterministic-modeling)
-* [ISyE 524: Introduction to Optimization](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-524-introduction-to-optimization)
+* [ISyE/CS 524: Introduction to Optimization](https://github.com/manavvshah321/Projects/blob/main/README.md#isye-524-introduction-to-optimization)
 
 ### ISyE 350: Junior Design Lab
 
@@ -36,6 +36,8 @@ Our course project for Simulation and Probabilistic Modeling allowed us to use a
 A direct link to the project report can be found [here](https://github.com/manavvshah321/Projects/blob/main/ISyE%20320%20-%20Final%20Report.pdf) and a link to the Arena simulation file can be found [here](https://github.com/manavvshah321/Projects/blob/main/SimulationFinal.accdb).
 
 ### ISyE 412: Fundamentals of Industrial Data Analytics
+
+
 
 ### ISyE 323: Operations Research - Deterministic Modeling
 
