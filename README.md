@@ -34,6 +34,7 @@ A direct link to the project report can be found [here](https://github.com/manav
 Our course project for Simulation and Probabilistic Modeling allowed us to use a simulation software, Arena, and statistical analysis to explore a solution that improves the traffic flow of a roundbout in Waunakee, Wisconsin. We conducted input, output and sensitivity analysis to guage how the current system works and calculated the arrival and interarrival times of the vehicles. Furthermore, we observed which distributions the vehicle arrving from each of the 4 entry points follows, such as Lognormal, Beta and Weibull distribution. We simulated the system in Arena and observed which changes to the rounabout would improve the traffic flow. We arrived at the final solution to add an additional lane and the conducted a cost-benefit analysis to check its feasibility. 
 
 
+
 ### ISyE 412: Fundamentals of Industrial Data Analytics
 
 ### ISyE 323: Operations Research - Deterministic Modeling
